@@ -4,7 +4,6 @@
 
 using namespace std;
 
-
 bool isValidAmex(const string& ccNumber) {
     return (ccNumber.length() == 15 && (ccNumber.substr(0, 2) == "34" || ccNumber.substr(0, 2) == "37"));
 }
