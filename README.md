@@ -9,6 +9,8 @@ This is a simple C++ program that validates credit card numbers using the Luhn a
 - Supports multiple card types with specific validation criteria.
 - Provides an interactive command-line interface for user input.
 
+## Limitations
+- My credit card project lacks the functionality to distinguish between active and inactive cards.
 ## Usage
 
 1. Clone the repository to your local machine.
